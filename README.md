@@ -62,7 +62,8 @@ como compilar o wxWidgets na sua maquina:
 ---------------------------------------------------------
 
 OBSERVACAO: O Script "Install-WxWidgets_v3.0.4" visa executar os passos abaixo de modo automatico.
-
+NOTA: Caso nao consiga rodar scripts no seu powershell pode ser uma restricao de seguranca, neste caso experimente 
+abrir uma seccao do PowerShell como administrador e digiar "Set-ExecutionPolicy RemoteSigned".
 
 1. Voce deve setar a variavel de ambiente WXWIN para conter o diretorio principal onde esta instalado o wxwidgets no seu computador: exemplo WXWIN = c:\wxWidgets
 
