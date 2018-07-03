@@ -1,9 +1,9 @@
 objetivo: Registrar anotacoes de como fiz para instalar o wxwidgets a partir do github direto do source
 ::
 
-=================================================================
+====
 COMO INSTALAR O WXWIDGET DO GITHUB NO WINDOWS USANDO MINGW
-=================================================================
+====
 
 
 --------------------------------
@@ -60,6 +60,9 @@ Tem varias formas de fazer isto, a forma que eu usei foi esta aqui:
 ---------------------------------------------------------
 como compilar o wxWidgets na sua maquina:
 ---------------------------------------------------------
+
+OBSERVACAO: O Script "Install-WxWidgets_v3.0.4" visa executar os passos abaixo de modo automatico.
+
 
 1. Voce deve setar a variavel de ambiente WXWIN para conter o diretorio principal onde esta instalado o wxwidgets no seu computador: exemplo WXWIN = c:\wxWidgets
 
